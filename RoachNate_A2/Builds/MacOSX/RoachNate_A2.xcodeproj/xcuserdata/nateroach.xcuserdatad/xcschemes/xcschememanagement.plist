@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>RoachNate_A2 - AU.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>RoachNate_A2 - All.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>RoachNate_A2 - Shared Code.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>RoachNate_A2 - Standalone Plugin.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>RoachNate_A2 - VST3.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>3E6E29B4B30CA4B88F164285</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5D51B333A3CF30B2389F9F6A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A3F1ABF297733B32F7EAA629</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>AF9F7339794EEDB827C55133</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D3FAC6CF5989BF50FB830B45</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
